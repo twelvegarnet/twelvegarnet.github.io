@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "가나다라마바사"
     section: services
     list:
       - title: "E-Commerce"
