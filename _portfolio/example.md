@@ -27,7 +27,7 @@ alt: image alt text
 
 title: 게시글 검색
 subtitle: "게시판 리스트 아래의 입력창에 키워드를 입력하고 검색버튼을 누르면 해당 단어가 제목 혹은 내용에 포함되어 있는 글들의 목록을 보여줍니다."
-image: https://place-hold.it/400x300
+image: https://place-hold.it/300x200
 alt: image alt text
 
 ---
