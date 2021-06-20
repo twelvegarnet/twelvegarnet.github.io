@@ -11,24 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to My Portfolio!
     text: It's Nice To Meet You
-    button: Tell Me More
+    button: See Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "About Me"
+    text: "저를 표현하는 3가지 단어"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "책임감"
+        desc: '"교육기관 커리큘럼 내 프로젝트 진행 중에 모르는 부분이 있으면 시간이 걸리더라도 찾아서 이해하고 사용하려 하였고, 종료일 내에 완료했습니다."'
+        icon: fal fa-alarm-clock #find more at https://fontawesome.com/icons
+      - title: "성실함"
+        desc: '""'
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "끊임없는 노력"
+        desc: '"에러가 발생하면 해결방법만을 찾아 수정하고 넘어가는 것이 아닌, 에러코드를 보면서 원인이 무엇이고 해결방법을 알아가며 추후 동일한 에러코드 발생시 해소시간을 단축했습니다."'
+        icon: fas fa-laptop
 
   portfolio:
     title: "Portfolio"
