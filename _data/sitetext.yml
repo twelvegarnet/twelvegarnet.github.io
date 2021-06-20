@@ -97,7 +97,7 @@ en: &DEFAULT_EN
     social:
       - url: https://github.com/twelvegarnet
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/ehdcks112/
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
