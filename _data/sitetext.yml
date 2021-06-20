@@ -39,31 +39,35 @@ en: &DEFAULT_EN
 
   timeline:
     title: "About"
-    text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "final-project"
+        year: "2020.05-2020.06"
+        desc: "세미 프로젝트와 같은 게시판을 맡게 되어서 세미 프로젝트에서 구현해보지 못했던 부분들을 만들어보고, 네이버 카페를 참조하면서 모방해보려고 노력했습니다. 또한 오픈되어있는 스마트 에디터의 기능이 일부만 사용할 수 있는 것을 보고, 저만의 스마트 에디터를 만들고 싶다는 생각을 하게 되었습니다"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "semi-project"
+        year: "2020.04-2020.05"
+        desc: "처음으로 배운 내용들을 프로젝트에 적용하면서 그동안 배운 부분들이 어떤 식으로 쓰이는지 알게되었고, 흥미를 더욱 느끼게되어 공부하는 시간을 늘리게 되었던 시기였습니다."
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "New Start"
+        year: "2021.01-2021.06"
+        desc: "계속해왔던 항공정비사의 길을 그만두고 고민한 끝에 선택한 새 길은 개발자였습니다. 20살에 잠시 배우고 그만두었던 프로그래밍이었지만, 생각보다 일상생활의 많은 부분까지 개발이라는 영역이 차지하고 있다는 것을 알게되었고, 현재 javascript에 대한 지식이 부족하다고 여겨 공부중입니다."
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Quit a Aircraft Mechanic"
+        year: "2016.03-2020.07"
+        desc: "평생 직업이라고 여기며 살아왔던 항공정비사를, 코로나로 인해 모든 항공사가 직격탄을 맞고 그만두게 되었습니다."
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "foreigner"
+        year: "2019.03-2020.03"
+        desc: "회사 내에서 꾸준히 공부하고, 항공기 결함 발생 시 열심히 참여하고 해소한 결과를 인정받아 1년 간의 태국 주재정비사 생활을 했습니다."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
