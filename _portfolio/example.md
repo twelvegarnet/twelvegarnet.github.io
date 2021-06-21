@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: 게시판 리스트 
 subtitle: 
-image: url(./image/notice_list.png) #main image, can be a link or a file in assets/img/portfolio
+image: ![notice_list](./assets/img/portfolio/notice_list.png) #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 
