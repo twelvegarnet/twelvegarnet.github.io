@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "진행했던 프로젝트들"
+    text: "구현 기능"
     section: portfolio
     closebutton: "Close Project"
 
