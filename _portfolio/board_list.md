@@ -5,7 +5,7 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/notice_list.png
   
 #what displays when the item is clicked:
-title: board_list
+title: 게시판 메인
 subtitle: 
 image: assets/img/portfolio/notice_list.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
