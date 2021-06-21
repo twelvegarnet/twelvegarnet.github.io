@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: board_comments
+  title: 게시글 댓글
   subtitle: 
   thumbnail: assets/img/portfolio/notice_comments.png
   
