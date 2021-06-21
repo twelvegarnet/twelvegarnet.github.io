@@ -1,11 +1,11 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
+  title: board_list
   subtitle: subtitle
   thumbnail: assets/img/portfolio/notice_list.png
   
 #what displays when the item is clicked:
-title: final-project
+title: board_list
 subtitle: 
 image: assets/img/portfolio/notice_list.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
