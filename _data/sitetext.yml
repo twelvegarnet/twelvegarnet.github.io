@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "책임감"
         desc: '"교육기관 커리큘럼 내 프로젝트 진행 중에 모르는 부분이 있으면 시간이 걸리더라도 찾아서 이해하고 사용하려 하였고, 종료일 내에 완료했습니다."'
-        icon: far fa-hand-paper" #find more at https://fontawesome.com/icons
+        icon: far fa-thumbs-up #find more at https://fontawesome.com/icons
       - title: "성실함"
         desc: '"교육기관 출퇴근 시간같은 자투리 시간을 활용해보고자 교과목 관련 서적을 들고다니며 20분이라도 틈틈히 보며 발전하려 노력했습니다."'
         icon: fas fa-laptop
