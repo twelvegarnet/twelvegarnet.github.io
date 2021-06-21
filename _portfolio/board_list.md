@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: board_list
-  subtitle: subtitle
+  subtitle: 
   thumbnail: assets/img/portfolio/notice_list.png
   
 #what displays when the item is clicked:
