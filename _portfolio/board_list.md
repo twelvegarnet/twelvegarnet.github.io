@@ -1,4 +1,3 @@
-![태안](https://user-images.githubusercontent.com/78074493/122696728-b8054f00-d27e-11eb-8833-b2fa54b2ddf2.jpg)
 ---
 caption: #what displays in the portfolio grid:
   title: board_list
@@ -8,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: 게시판 메인
 subtitle: 
-image: assets/img/portfolio/notice_list.png #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/notice_list.png, ![태안](https://user-images.githubusercontent.com/78074493/122696728-b8054f00-d27e-11eb-8833-b2fa54b2ddf2.jpg)
 alt: image alt text
 
 ---
