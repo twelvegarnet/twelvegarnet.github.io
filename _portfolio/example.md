@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Example
   subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: ![notice_list](./image/notice_list.png)
   
 #what displays when the item is clicked:
 title: 게시판 리스트 
 subtitle: 
-image: https://place-hold.it/400x300 https://place-hold.it/500x400 #main image, can be a link or a file in assets/img/portfolio
+image: ![notice_list](./image/notice_list.png) #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 
