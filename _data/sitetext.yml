@@ -72,10 +72,10 @@ en: &DEFAULT_EN
         align: right
     end: "Part <br> of my <br> Story!"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    section: about
+  education:
+    title: "Education"
+    text: ""
+    section: education
 
   contact:
     title: "Contact Me"
