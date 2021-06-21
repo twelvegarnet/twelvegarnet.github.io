@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Example
   subtitle: subtitle
-  thumbnail: url(./image/notice_list.png)
+  thumbnail: ![notice_list](./assets/img/portfolio/notice_list.png)
   
 #what displays when the item is clicked:
 title: 게시판 리스트 
