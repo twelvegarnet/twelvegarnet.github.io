@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: board_update
+  title: 글 수정
   subtitle: 
   thumbnail: assets/img/portfolio/notice_update.png
   
